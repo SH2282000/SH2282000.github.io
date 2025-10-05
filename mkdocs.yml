@@ -1,4 +1,56 @@
-site_name: My Docs
+site_name: World of Shannah
+site_author: This is a blog abouut Shannah's life.
 site_url: https://sitename.example
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+plugins: 
+  - search
+  - blog:
+      blog_dir: .
+      categories_allowed:
+        - Tech
+        - Life
+      post_url_format: '{slug}'
+  - tags:
+      tags_file: tags.md
+  - rss:
+      match_path: "posts/.*"
+      pretty_print: true
+      date_from_meta:
+          as_creation: date.created
+          as_update: date.updated
+
+extra:
+  social:
+    - icon: simple/youtube
+      link: https://www.youtube.com/@shannax
+    - icon: simple/github
+      link: https://github.com/SH2282000
+    - icon: simple/x
+      link: https://x.com/TheRealShannax
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/shannax/
+
+hooks:
+  - hooks/socialmedia.py
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
