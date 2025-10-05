@@ -17,8 +17,8 @@ def on_page_markdown(markdown, **kwargs):
     page_title = parse.quote(page.title + "\n\n")
 
     return markdown + dedent(f"""
-    <div class="social-media" markdown="1">
-        [Share on :simple-x:](https://x.com/intent/tweet?text={page_title}&url={page_url})
-        [Share on :simple-facebook:](https://facebook.com/sharer/sharer.php?u={page_url})
+    <div class="social-media" markdown="1">  
+    [Share on :simple-x:](https://x.com/intent/tweet?text={page_title}&url={page_url})
+    [Share on :simple-facebook:](https://facebook.com/sharer/sharer.php?u={page_url})
     </div>
     """)

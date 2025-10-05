@@ -3,6 +3,7 @@ site_author: This is a blog abouut Shannah's life.
 site_url: https://sitename.example
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: indigo
