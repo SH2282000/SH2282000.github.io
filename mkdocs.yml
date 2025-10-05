@@ -6,19 +6,19 @@ theme:
   custom_dir: overrides
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: white
+      accent: white
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: white
+      accent: white
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
 
-plugins: 
+plugins:
   - search
   - blog:
       blog_dir: .
@@ -34,7 +34,7 @@ plugins:
       date_from_meta:
           as_creation: date.created
           as_update: date.updated
-  - git-commiters:
+  - git-committers:
       enabled: true
       repository: SH2282000/SH2282000.github.io
       branch: main
