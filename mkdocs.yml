@@ -34,7 +34,16 @@ plugins:
       date_from_meta:
           as_creation: date.created
           as_update: date.updated
-
+  - git-commiters:
+      enabled: true
+      repository: SH2282000/SH2282000.github.io
+      branch: main
+      token: !ENV GH_TOKEN
+  - git-revision-date-localized:
+      enabled: true
+      type: date
+      fallback_to_build_date: true
+      enable_creation_date: true
 extra:
   social:
     - icon: simple/youtube
