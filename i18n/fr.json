@@ -1,7 +1,7 @@
 {
     "header": {
         "name": "SHANNAH SANTUCCI",
-        "description": "Programmeur",
+        "description": "Programmeur, Designer et Développeur logiciel. Passionné de Deep Learning et d'IA. — Bilingue Français et Allemand",
         "languages": {
             "german": "🇩🇪",
             "french": "🇫🇷"
@@ -9,65 +9,65 @@
     },
     "sections": {
         "professionalSummary": "RÉSUMÉ PROFESSIONNEL",
-        "backgroundSummary": "BACKGROUND SUMMARY",
-        "ongoingEngagements": "Ongoing Engagements",
-        "blog": "For the latest updates and articles, please visit my blog.",
+        "backgroundSummary": "RÉSUMÉ DU PARCOURS",
+        "ongoingEngagements": "Engagements en cours",
+        "blog": "Pour les dernières mises à jour et articles, veuillez visiter mon blog.",
         "construction": {
-            "title": "I'm glad that you're here, this website is in construction. Work In Progress!",
-            "subtitle": "Hoped you wouldn't scroll that far, but you did..."
+            "title": "Je suis content que vous soyez là, ce site est en construction. Travail en cours !",
+            "subtitle": "J'espérais que vous ne descendriez pas si bas, mais vous l'avez fait..."
         }
     },
     "resume": {
         "items": [
             {
-                "date": "Nov 2024 – Present",
-                "title": "Master Thesis – Trustworthy LLMs in Industrial Contexts",
+                "date": "Nov 2024 – Présent",
+                "title": "Mémoire de Master – LLM fiables dans des contextes industriels",
                 "company": "Siemens AG",
-                "location": "Munich, Bavaria, Germany",
-                "image": "src/assets/siemens.jpeg",
-                "description": "Currently writing my Master’s thesis on 'Trustworthy LLMs in Industrial Contexts'. Using VLAs and vision-based RAG for generation of machining operation sequences from CAM datasets. Created an evaluation framework to assess correctness on industrial data. Focused on ensuring reliable propagation of input redactions, minimizing hallucinations, and deriving attention-based metrics for trust and safety in industrial AI."
+                "location": "Munich, Bavière, Allemagne",
+                "image": "assets/siemens.jpeg",
+                "description": "Rédaction actuelle de mon mémoire de Master sur 'LLM fiables dans des contextes industriels'. Utilisation de VLA et de RAG basé sur la vision pour la génération de séquences d'opérations d'usinage à partir de jeux de données CAM. Création d'un cadre d'évaluation pour vérifier l'exactitude sur des données industrielles. Axé sur la propagation fiable des redactions d'entrée, la minimisation des hallucinations et la dérivation de métriques basées sur l'attention pour la confiance et la sécurité dans l'IA industrielle."
             },
             {
-                "date": "Sep 2022 – Present",
-                "title": "Working Student – LLM, DL, Robustness and Best Practices",
+                "date": "Sep 2022 – Présent",
+                "title": "Étudiant en emploi – LLM, DL, Robustesse et Bonnes Pratiques",
                 "company": "Siemens AG",
-                "location": "Munich, Bavaria, Germany",
-                "image": "src/assets/siemens.jpeg",
-                "description": "Updated and co-authored a Copier-based Python package template to enforce SafeMLOps best practices with CI/CD, security scanning, and automated documentation. Integrated GPU support, Poetry dependency management, and pre-commit hooks for reproducible ML development.",
+                "location": "Munich, Bavière, Allemagne",
+                "image": "assets/siemens.jpeg",
+                "description": "Mise à jour et co-rédaction d'un modèle de package Python basé sur Copier pour appliquer les bonnes pratiques SafeMLOps avec CI/CD, analyse de sécurité et documentation automatisée. Intégration du support GPU, gestion des dépendances via Poetry et hooks pre-commit pour un développement ML reproductible.",
                 "skills": [
                     "Deep Learning",
                     "Linux",
-                    "AI",
+                    "IA",
                     "Python",
                     "PyTorch",
                     "TensorFlow",
                     "Keras",
-                    "Computer Vision"
+                    "Vision par ordinateur"
                 ]
             },
             {
-                "date": "Oct 2021 – Dec 2022",
-                "title": "Working Student – Certification of Model Robustness",
+                "date": "Oct 2021 – Déc 2022",
+                "title": "Étudiant en emploi – Certification de la Robustesse des Modèles",
                 "company": "Siemens Mobility",
-                "location": "Munich, Bavaria, Germany",
-                "image": "src/assets/siemens.jpeg",
-                "description": "Maintained CNN (U-Net) segmentation pipelines while promoting open-source best practices. Used Poetry for dependency management and ensured reproducibility across platforms. Contributed to Siemens AI Summit deliverables and improved cross-team collaboration on legacy codebases using DVC."
+                "location": "Munich, Bavière, Allemagne",
+                "image": "assets/siemens.jpeg",
+                "description": "Maintien des pipelines de segmentation CNN (U-Net) tout en promouvant les bonnes pratiques open-source. Utilisation de Poetry pour la gestion des dépendances et garantie de reproductibilité sur plusieurs plateformes. Contribution aux livrables du Siemens AI Summit et amélioration de la collaboration inter-équipes sur des bases de code héritées utilisant DVC."
             },
             {
-                "date": "May 2022 – Sep 2022",
-                "title": "Bachelor Thesis – Certification of Model Robustness",
+                "date": "Mai 2022 – Sep 2022",
+                "title": "Mémoire de Licence – Certification de la Robustesse des Modèles",
                 "company": "Siemens AG",
-                "location": "Munich, Bavaria, Germany",
-                "image": "src/assets/siemens.jpeg",
-                "description": "Completed a Bachelor’s thesis on 'Model Certification Against Natural Perturbations', aligning with EU AI Act compliance. Focused on parallelizing robustness estimation to detect misclassification under natural noise."
+                "location": "Munich, Bavière, Allemagne",
+                "image": "assets/siemens.jpeg",
+                "description": "Réalisation d'un mémoire de Licence sur 'Certification des Modèles contre les Perturbations Naturelles', conforme au règlement européen sur l'IA. Axé sur la parallélisation de l'estimation de robustesse pour détecter les erreurs de classification sous bruit naturel."
             },
             {
                 "date": "Mar 2022 – Sep 2022",
-                "title": "Intern – Prototype Development",
+                "title": "Stagiaire – Développement de Prototype",
                 "company": "BMW Group",
-                "location": "Munich, Bavaria, Germany",
-                "image": "src/assets/bmw.png",
-                "description": "Evaluated a new login concept, 'Fast Login', for in-car systems. Designed and tested Android prototypes, integrating Bluetooth Low Energy and AWS Lambda backends.",
+                "location": "Munich, Bavière, Allemagne",
+                "image": "assets/bmw.png",
+                "description": "Évaluation d'un nouveau concept de connexion 'Fast Login' pour les systèmes embarqués. Conception et test de prototypes Android, intégrant Bluetooth Low Energy et backends AWS Lambda.",
                 "skills": [
                     "Android",
                     "AWS",
@@ -75,34 +75,34 @@
                     "C++",
                     "Python",
                     "Bluetooth",
-                    "Mobile Apps"
+                    "Applications Mobiles"
                 ]
             },
             {
-                "date": "Jun 2014 – Jan 2019",
-                "title": "Co-Founder – Drone Development",
+                "date": "Juin 2014 – Jan 2019",
+                "title": "Co-Fondateur – Développement de Drones",
                 "company": "ROTOR",
                 "location": "Fontainebleau, Île-de-France, France",
-                "description": "Designed and built unmanned aerial vehicles for aerial operations and surveillance. Managed electronics, CAD, and flight control systems under a non-profit association.",
+                "description": "Conception et construction de véhicules aériens sans pilote pour opérations et surveillance aérienne. Gestion de l'électronique, du CAD et des systèmes de contrôle de vol au sein d'une association à but non lucratif.",
                 "skills": [
-                    "Drone Piloting",
-                    "Electronics",
-                    "CAD",
+                    "Pilotage de drones",
+                    "Électronique",
+                    "CAO",
                     "Blender",
                     "Python",
-                    "Web Development"
+                    "Développement Web"
                 ]
             },
             {
-                "date": "Jan 2016 – Apr 2016",
-                "title": "Electronics Design Engineer",
+                "date": "Jan 2016 – Avr 2016",
+                "title": "Ingénieur Conception Électronique",
                 "company": "Kimeo Project",
                 "location": "Paris, France",
-                "description": "Developed and assembled custom electronic systems for laser cutting and embedded applications.",
+                "description": "Développement et assemblage de systèmes électroniques sur mesure pour découpe laser et applications embarquées.",
                 "skills": [
-                    "Laser Cutting",
-                    "Embedded Systems",
-                    "Electronics"
+                    "Découpe laser",
+                    "Systèmes embarqués",
+                    "Électronique"
                 ]
             }
         ]
@@ -110,65 +110,65 @@
     "education": [
         {
             "institution": "Ludwig-Maximilians-Universität München",
-            "location": "Munich, Bavaria, Germany",
-            "degree": "Master's Degree, Computer Science",
+            "location": "Munich, Bavière, Allemagne",
+            "degree": "Master, Informatique",
             "date": "2023 - 2025",
-            "image": "/assets/edu/lmu.jpeg",
+            "image": "assets/edu/esiea.jpeg",
             "skills": [
                 "C++",
                 "Python",
                 "Haskell",
-                "High Performance Computing (HPC)",
+                "Calcul Haute Performance (HPC)",
                 "Java",
                 "Big Data",
-                "Deep Neural Networks (DNN)",
-                "Cybersecurity",
-                "Generative AI",
+                "Réseaux Neurones Profonds (DNN)",
+                "Cybersécurité",
+                "IA Générative",
                 "Transformers",
                 "Visual Studio",
-                "Data Visualization",
-                "Logic Programming",
-                "Computer Hardware",
-                "Computer Simulations",
-                "Computer Vision"
+                "Visualisation de données",
+                "Programmation Logique",
+                "Matériel informatique",
+                "Simulations informatiques",
+                "Vision par ordinateur"
             ]
         },
         {
             "institution": "Technical University of Munich",
-            "location": "Munich, Bavaria, Germany",
+            "location": "Munich, Bavière, Allemagne",
             "date": "2022 - 2024",
-            "image": "/assets/edu/tum.jpeg",
+            "image": "assets/edu/tum.jpeg",
             "skills": [
-                "Quantum Computing",
-                "High Performance Computing (HPC)",
-                "Cognitive Science",
+                "Informatique Quantique",
+                "Calcul Haute Performance (HPC)",
+                "Sciences Cognitives",
                 "Robot Operating System (ROS)",
-                "Robotics",
-                "Embedded Linux",
-                "Embedded Systems",
+                "Robotique",
+                "Linux embarqué",
+                "Systèmes embarqués",
                 "Big Data",
-                "Applied Mathematics",
-                "Mathematical Modeling"
+                "Mathématiques appliquées",
+                "Modélisation mathématique"
             ]
         },
         {
             "institution": "Ludwig-Maximilians-Universität München",
-            "location": "Munich, Bavaria, Germany",
-            "degree": "Bachelor's degree, Informatique",
+            "location": "Munich, Bavière, Allemagne",
+            "degree": "Licence, Informatique",
             "date": "2020 - 2022",
-            "image": "/assets/edu/lmu.jpeg",
+            "image": "assets/edu/lmu.jpeg",
             "skills": [
                 "C++",
                 "Python",
                 "Haskell",
-                "Functional Programming",
-                "Linear Algebra",
-                "Algorithm Design",
-                "Data Structures",
-                "Operating Systems",
-                "Formal Languages",
-                "Formal Verification",
-                "Computational Complexity"
+                "Programmation Fonctionnelle",
+                "Algèbre Linéaire",
+                "Conception d'Algorithmes",
+                "Structures de Données",
+                "Systèmes d'exploitation",
+                "Langages Formels",
+                "Vérification Formelle",
+                "Complexité Computationnelle"
             ]
         },
         {
@@ -176,85 +176,85 @@
             "location": "Paris, France",
             "degree": "Informatique",
             "date": "2018 - 2020",
-            "image": "/assets/edu/esiea.jpeg",
+            "image": "assets/edu/esiea.jpeg",
             "skills": [
                 "C++",
                 "Python",
-                "Electronics",
-                "Electrical Engineering",
-                "Circuit Design",
-                "Analog Circuit Design",
-                "Printed Circuit Board (PCB) Design",
-                "Integrated Circuits (IC)",
-                "Digital Circuit Design",
-                "Mixed-Signal Integrated Circuits",
-                "Applied Mathematics",
+                "Électronique",
+                "Génie Électrique",
+                "Conception de circuits",
+                "Conception de circuits analogiques",
+                "Conception de PCB",
+                "Circuits Intégrés",
+                "Conception de circuits numériques",
+                "Circuits intégrés mixtes",
+                "Mathématiques appliquées",
                 "Mathematica",
                 "MATLAB",
                 "C",
-                "Artificial Neural Networks",
-                "Computational Complexity",
-                "Robotics"
+                "Réseaux de Neurones Artificiels",
+                "Complexité Computationnelle",
+                "Robotique"
             ]
         }
     ],
     "background": {
         "languages": {
-            "title": "Languages",
+            "title": "Langues",
             "items": [
-                "🇺🇸 English: Fluent Speaker / Writer",
-                "🇫🇷 French: Mother Tongue",
-                "🇩🇪 German: Father Tongue"
+                "🇺🇸 Anglais : Courant à l'oral et à l'écrit",
+                "🇫🇷 Français : Langue maternelle",
+                "🇩🇪 Allemand : Langue paternelle"
             ]
         },
         "interests": {
-            "title": "Interests and Hobbies",
+            "title": "Intérêts et Loisirs",
             "items": [
-                "Machine Learning",
-                "Software",
-                "Robotics",
-                "2D and 3D Modeling",
-                "Electronics",
-                "Web Development",
+                "Apprentissage automatique",
+                "Logiciels",
+                "Robotique",
+                "Modélisation 2D et 3D",
+                "Électronique",
+                "Développement Web",
                 "Management",
-                "Tech News",
-                "Athletics",
-                "Saxophone (11 years)",
-                "Traveling, exploration"
+                "Actualités tech",
+                "Athlétisme",
+                "Saxophone (11 ans)",
+                "Voyages, exploration"
             ]
         },
         "skills": {
-            "title": "Technical Skills",
+            "title": "Compétences Techniques",
             "categories": {
                 "backend": {
                     "title": "Backend",
-                    "text": "Developed good knowledge of C, C++, C#, Swift, Kotlin, Java, Python (AWS scalable app) and Haskell in order to lead the projects that I’ve accomplished. Since a young age, working passionately both in and outside school in various fields such as programming and electronics."
+                    "text": "Développement de solides connaissances en C, C++, C#, Swift, Kotlin, Java, Python (applications scalables AWS) et Haskell afin de piloter les projets réalisés. Depuis mon plus jeune âge, travail passionné à l'école et en dehors dans divers domaines tels que la programmation et l'électronique."
                 },
                 "frontend": {
                     "title": "Frontend",
-                    "text": "SwiftUI, SpriteKit, JavaScript (CSS), Bootstrap, Angular, JavaFX, React and more…"
+                    "text": "SwiftUI, SpriteKit, JavaScript (CSS), Bootstrap, Angular, JavaFX, React et plus…"
                 },
                 "electronics": {
-                    "title": "Electronics",
-                    "text": "Passionate about prototyping many different things on breadboards and PCBs. DIY lover."
+                    "title": "Électronique",
+                    "text": "Passion pour le prototypage de nombreuses choses sur breadboards et PCB. Amateur de DIY."
                 },
                 "modeling": {
-                    "title": "2D and 3D modeling",
-                    "text": "Modeling with open-source programs including Blender, Inkscape, and FreeCAD. After finishing modeling, I like to build my creations using 3D Printers, CNC machines, and Laser engravers."
+                    "title": "Modélisation 2D et 3D",
+                    "text": "Modélisation avec des logiciels open-source incluant Blender, Inkscape et FreeCAD. Après la modélisation, j'aime construire mes créations avec des imprimantes 3D, des machines CNC et des graveurs laser."
                 }
             }
         }
     },
     "engagements": {
         "items": [
-            "🔭 Ongoing work: Model Robustness at Siemens.",
-            "🌱 Personal projects related to machine learning.",
-            "👨‍💻 Portfolio of projects available on GitHub.",
-            "👯 Seeking active programming partners.",
-            "📫 Available for interesting opportunities, worldwide."
+            "🔭 Travaux en cours : Robustesse des modèles chez Siemens.",
+            "🌱 Projets personnels liés à l'apprentissage automatique.",
+            "👨‍💻 Portfolio de projets disponible sur GitHub.",
+            "👯 Recherche de partenaires actifs en programmation.",
+            "📫 Disponible pour des opportunités intéressantes, partout dans le monde."
         ]
     },
     "footer": {
-        "credits": "Website developed and maintained by shannah.santucci _at_ gmail.com. Please report any errors or lack of consistency."
+        "credits": "Site développé et maintenu par shannah.santucci _at_ gmail.com. Veuillez signaler toute erreur ou incohérence."
     }
 }

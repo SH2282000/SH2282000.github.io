@@ -1,6 +1,260 @@
 {
-    "name": "Shannah Santucci",
-    "description": "Programmierer, Designer und Softwareentwickler. Deep-Learning- und KI-Enthusiast. --- Doppelstaatsbürger Französisch und Deutsch",
-    "professionalSummary": "BERUFLICHE ZUSAMMENFASSUNG",
-    "workingStudent": "Werkstudent – Deep Learning und Künstliche Intelligenz @ SIEMENS AG"
+    "header": {
+        "name": "SHANNAH SANTUCCI",
+        "description": "Programmierer, Designer und Softwareentwickler. Begeistert von Deep Learning und KI. — Doppelstaatsbürger: Französisch und Deutsch",
+        "languages": {
+            "german": "🇩🇪",
+            "french": "🇫🇷"
+        }
+    },
+    "sections": {
+        "professionalSummary": "BERUFLICHE ZUSAMMENFASSUNG",
+        "backgroundSummary": "HINTERGRUNDZUSAMMENFASSUNG",
+        "ongoingEngagements": "Laufende Engagements",
+        "blog": "Für die neuesten Updates und Artikel besuchen Sie bitte meinen Blog.",
+        "construction": {
+            "title": "Ich freue mich, dass Sie hier sind – diese Website befindet sich im Aufbau. Arbeit im Gange!",
+            "subtitle": "Ich hatte gehofft, Sie würden nicht so weit nach unten scrollen... aber Sie haben es getan."
+        }
+    },
+    "resume": {
+        "items": [
+            {
+                "date": "Nov 2024 – Gegenwart",
+                "title": "Masterarbeit – Vertrauenswürdige LLMs in industriellen Kontexten",
+                "company": "Siemens AG",
+                "location": "München, Bayern, Deutschland",
+                "image": "assets/siemens.jpeg",
+                "description": "Derzeit verfasse ich meine Masterarbeit über 'Vertrauenswürdige LLMs in industriellen Kontexten'. Einsatz von VLAs und visionsbasiertem RAG zur Generierung von Bearbeitungssequenzen aus CAM-Datensätzen. Entwicklung eines Evaluierungsrahmens zur Bewertung der Korrektheit auf Industriedaten. Schwerpunkt auf zuverlässiger Weitergabe von Eingaberedaktionen, Minimierung von Halluzinationen und Ableitung aufmerksamkeitsbasierter Metriken für Vertrauen und Sicherheit in industrieller KI."
+            },
+            {
+                "date": "Sep 2022 – Gegenwart",
+                "title": "Werkstudent – LLM, DL, Robustheit und Best Practices",
+                "company": "Siemens AG",
+                "location": "München, Bayern, Deutschland",
+                "image": "assets/siemens.jpeg",
+                "description": "Aktualisierung und Mitentwicklung einer auf Copier basierenden Python-Paketvorlage zur Durchsetzung von SafeMLOps-Best Practices mit CI/CD, Sicherheits-Scans und automatisierter Dokumentation. Integration von GPU-Unterstützung, Poetry-Abhängigkeitsverwaltung und Pre-Commit-Hooks für reproduzierbare ML-Entwicklung.",
+                "skills": [
+                    "Deep Learning",
+                    "Linux",
+                    "KI",
+                    "Python",
+                    "PyTorch",
+                    "TensorFlow",
+                    "Keras",
+                    "Computer Vision"
+                ]
+            },
+            {
+                "date": "Okt 2021 – Dez 2022",
+                "title": "Werkstudent – Zertifizierung der Modellrobustheit",
+                "company": "Siemens Mobility",
+                "location": "München, Bayern, Deutschland",
+                "image": "assets/siemens.jpeg",
+                "description": "Wartung von CNN-(U-Net)-Segmentierungspipelines und Förderung von Open-Source-Best Practices. Verwendung von Poetry für Abhängigkeitsmanagement und Sicherstellung der Reproduzierbarkeit über Plattformen hinweg. Beitrag zu den Siemens AI Summit Deliverables und Verbesserung der teamübergreifenden Zusammenarbeit bei Legacy-Code mit DVC."
+            },
+            {
+                "date": "Mai 2022 – Sep 2022",
+                "title": "Bachelorarbeit – Zertifizierung der Modellrobustheit",
+                "company": "Siemens AG",
+                "location": "München, Bayern, Deutschland",
+                "image": "assets/siemens.jpeg",
+                "description": "Abschlussarbeit zum Thema 'Zertifizierung von Modellen gegen natürliche Störungen' in Übereinstimmung mit der EU-AI-Act-Konformität. Fokus auf Parallelisierung der Robustheitsschätzung zur Erkennung von Fehlklassifikationen unter natürlichem Rauschen."
+            },
+            {
+                "date": "Mär 2022 – Sep 2022",
+                "title": "Praktikant – Prototypentwicklung",
+                "company": "BMW Group",
+                "location": "München, Bayern, Deutschland",
+                "image": "assets/bmw.png",
+                "description": "Bewertung eines neuen Login-Konzepts 'Fast Login' für Fahrzeugsysteme. Entwurf und Test von Android-Prototypen mit Integration von Bluetooth Low Energy und AWS-Lambda-Backends.",
+                "skills": [
+                    "Android",
+                    "AWS",
+                    "Kotlin",
+                    "C++",
+                    "Python",
+                    "Bluetooth",
+                    "Mobile Apps"
+                ]
+            },
+            {
+                "date": "Jun 2014 – Jan 2019",
+                "title": "Mitbegründer – Drohnenentwicklung",
+                "company": "ROTOR",
+                "location": "Fontainebleau, Île-de-France, Frankreich",
+                "description": "Entwicklung und Bau unbemannter Luftfahrzeuge für Luftoperationen und Überwachung. Verantwortlich für Elektronik, CAD und Flugsteuerungssysteme innerhalb eines gemeinnützigen Vereins.",
+                "skills": [
+                    "Drohnensteuerung",
+                    "Elektronik",
+                    "CAD",
+                    "Blender",
+                    "Python",
+                    "Webentwicklung"
+                ]
+            },
+            {
+                "date": "Jan 2016 – Apr 2016",
+                "title": "Elektronik-Designingenieur",
+                "company": "Kimeo Project",
+                "location": "Paris, Frankreich",
+                "description": "Entwicklung und Montage kundenspezifischer elektronischer Systeme für Laserschneiden und eingebettete Anwendungen.",
+                "skills": [
+                    "Laserschneiden",
+                    "Eingebettete Systeme",
+                    "Elektronik"
+                ]
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Ludwig-Maximilians-Universität München",
+            "location": "München, Bayern, Deutschland",
+            "degree": "Masterstudium, Informatik",
+            "date": "2023 - 2025",
+            "image": "assets/edu/esiea.jpeg",
+            "skills": [
+                "C++",
+                "Python",
+                "Haskell",
+                "Hochleistungsrechnen (HPC)",
+                "Java",
+                "Big Data",
+                "Tiefe Neuronale Netze (DNN)",
+                "Cybersicherheit",
+                "Generative KI",
+                "Transformers",
+                "Visual Studio",
+                "Datenvisualisierung",
+                "Logikprogrammierung",
+                "Computerhardware",
+                "Computersimulationen",
+                "Computer Vision"
+            ]
+        },
+        {
+            "institution": "Technische Universität München",
+            "location": "München, Bayern, Deutschland",
+            "date": "2022 - 2024",
+            "image": "assets/edu/tum.jpeg",
+            "skills": [
+                "Quantencomputing",
+                "Hochleistungsrechnen (HPC)",
+                "Kognitionswissenschaft",
+                "Robot Operating System (ROS)",
+                "Robotik",
+                "Eingebettetes Linux",
+                "Eingebettete Systeme",
+                "Big Data",
+                "Angewandte Mathematik",
+                "Mathematische Modellierung"
+            ]
+        },
+        {
+            "institution": "Ludwig-Maximilians-Universität München",
+            "location": "München, Bayern, Deutschland",
+            "degree": "Bachelor, Informatik",
+            "date": "2020 - 2022",
+            "image": "assets/edu/lmu.jpeg",
+            "skills": [
+                "C++",
+                "Python",
+                "Haskell",
+                "Funktionale Programmierung",
+                "Lineare Algebra",
+                "Algorithmendesign",
+                "Datenstrukturen",
+                "Betriebssysteme",
+                "Formale Sprachen",
+                "Formale Verifikation",
+                "Berechnungskomplexität"
+            ]
+        },
+        {
+            "institution": "ESIEA - École d'Ingénieur·e·s d'un numérique utile",
+            "location": "Paris, Frankreich",
+            "degree": "Informatik",
+            "date": "2018 - 2020",
+            "image": "assets/edu/esiea.jpeg",
+            "skills": [
+                "C++",
+                "Python",
+                "Elektronik",
+                "Elektrotechnik",
+                "Schaltungsdesign",
+                "Analoges Schaltungsdesign",
+                "Leiterplattenentwicklung (PCB)",
+                "Integrierte Schaltungen (IC)",
+                "Digitale Schaltungen",
+                "Mixed-Signal-Schaltungen",
+                "Angewandte Mathematik",
+                "Mathematica",
+                "MATLAB",
+                "C",
+                "Künstliche Neuronale Netze",
+                "Berechnungskomplexität",
+                "Robotik"
+            ]
+        }
+    ],
+    "background": {
+        "languages": {
+            "title": "Sprachen",
+            "items": [
+                "🇺🇸 Englisch: Fließend in Wort und Schrift",
+                "🇫🇷 Französisch: Muttersprache",
+                "🇩🇪 Deutsch: Vatersprache"
+            ]
+        },
+        "interests": {
+            "title": "Interessen und Hobbys",
+            "items": [
+                "Maschinelles Lernen",
+                "Softwareentwicklung",
+                "Robotik",
+                "2D- und 3D-Modellierung",
+                "Elektronik",
+                "Webentwicklung",
+                "Management",
+                "Technologische Nachrichten",
+                "Leichtathletik",
+                "Saxophon (11 Jahre)",
+                "Reisen, Entdeckung"
+            ]
+        },
+        "skills": {
+            "title": "Technische Fähigkeiten",
+            "categories": {
+                "backend": {
+                    "title": "Backend",
+                    "text": "Fundierte Kenntnisse in C, C++, C#, Swift, Kotlin, Java, Python (AWS-skalierbare Apps) und Haskell, um die von mir geleiteten Projekte umzusetzen. Seit meiner Jugend arbeite ich leidenschaftlich sowohl innerhalb als auch außerhalb der Schule in Bereichen wie Programmierung und Elektronik."
+                },
+                "frontend": {
+                    "title": "Frontend",
+                    "text": "SwiftUI, SpriteKit, JavaScript (CSS), Bootstrap, Angular, JavaFX, React und mehr…"
+                },
+                "electronics": {
+                    "title": "Elektronik",
+                    "text": "Leidenschaft für das Prototyping verschiedenster Projekte auf Breadboards und PCBs. DIY-Enthusiast."
+                },
+                "modeling": {
+                    "title": "2D- und 3D-Modellierung",
+                    "text": "Modellierung mit Open-Source-Programmen wie Blender, Inkscape und FreeCAD. Nach der Modellierung baue ich meine Entwürfe gerne mit 3D-Druckern, CNC-Maschinen und Laserschneidern."
+                }
+            }
+        }
+    },
+    "engagements": {
+        "items": [
+            "🔭 Laufende Arbeit: Modellrobustheit bei Siemens.",
+            "🌱 Persönliche Projekte im Bereich maschinelles Lernen.",
+            "👨‍💻 Projektportfolio auf GitHub verfügbar.",
+            "👯 Suche nach aktiven Programmierpartnern.",
+            "📫 Offen für spannende internationale Möglichkeiten."
+        ]
+    },
+    "footer": {
+        "credits": "Website entwickelt und gepflegt von shannah.santucci _at_ gmail.com. Bitte melden Sie Fehler oder Inkonsistenzen."
+    }
 }
