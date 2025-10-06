@@ -24,7 +24,7 @@
                 "title": "Master Thesis – Trustworthy LLMs in Industrial Contexts",
                 "company": "Siemens AG",
                 "location": "Munich, Bavaria, Germany",
-                "image": "src/assets/siemens.jpeg",
+                "image": "assets/siemens.jpeg",
                 "description": "Currently writing my Master’s thesis on 'Trustworthy LLMs in Industrial Contexts'. Using VLAs and vision-based RAG for generation of machining operation sequences from CAM datasets. Created an evaluation framework to assess correctness on industrial data. Focused on ensuring reliable propagation of input redactions, minimizing hallucinations, and deriving attention-based metrics for trust and safety in industrial AI."
             },
             {
@@ -32,7 +32,7 @@
                 "title": "Working Student – LLM, DL, Robustness and Best Practices",
                 "company": "Siemens AG",
                 "location": "Munich, Bavaria, Germany",
-                "image": "src/assets/siemens.jpeg",
+                "image": "assets/siemens.jpeg",
                 "description": "Updated and co-authored a Copier-based Python package template to enforce SafeMLOps best practices with CI/CD, security scanning, and automated documentation. Integrated GPU support, Poetry dependency management, and pre-commit hooks for reproducible ML development.",
                 "skills": [
                     "Deep Learning",
@@ -50,7 +50,7 @@
                 "title": "Working Student – Certification of Model Robustness",
                 "company": "Siemens Mobility",
                 "location": "Munich, Bavaria, Germany",
-                "image": "src/assets/siemens.jpeg",
+                "image": "assets/siemens.jpeg",
                 "description": "Maintained CNN (U-Net) segmentation pipelines while promoting open-source best practices. Used Poetry for dependency management and ensured reproducibility across platforms. Contributed to Siemens AI Summit deliverables and improved cross-team collaboration on legacy codebases using DVC."
             },
             {
@@ -58,7 +58,7 @@
                 "title": "Bachelor Thesis – Certification of Model Robustness",
                 "company": "Siemens AG",
                 "location": "Munich, Bavaria, Germany",
-                "image": "src/assets/siemens.jpeg",
+                "image": "assets/siemens.jpeg",
                 "description": "Completed a Bachelor’s thesis on 'Model Certification Against Natural Perturbations', aligning with EU AI Act compliance. Focused on parallelizing robustness estimation to detect misclassification under natural noise."
             },
             {
@@ -66,7 +66,7 @@
                 "title": "Intern – Prototype Development",
                 "company": "BMW Group",
                 "location": "Munich, Bavaria, Germany",
-                "image": "src/assets/bmw.png",
+                "image": "assets/bmw.png",
                 "description": "Evaluated a new login concept, 'Fast Login', for in-car systems. Designed and tested Android prototypes, integrating Bluetooth Low Energy and AWS Lambda backends.",
                 "skills": [
                     "Android",
@@ -113,7 +113,7 @@
             "location": "Munich, Bavaria, Germany",
             "degree": "Master's Degree, Computer Science",
             "date": "2023 - 2025",
-            "image": "src/assets/edu/esiea.jpeg",
+            "image": "assets/edu/esiea.jpeg",
             "skills": [
                 "C++",
                 "Python",
@@ -137,7 +137,7 @@
             "institution": "Technical University of Munich",
             "location": "Munich, Bavaria, Germany",
             "date": "2022 - 2024",
-            "image": "src/assets/edu/tum.jpeg",
+            "image": "assets/edu/tum.jpeg",
             "skills": [
                 "Quantum Computing",
                 "High Performance Computing (HPC)",
@@ -156,7 +156,7 @@
             "location": "Munich, Bavaria, Germany",
             "degree": "Bachelor's degree, Informatique",
             "date": "2020 - 2022",
-            "image": "src/assets/edu/lmu.jpeg",
+            "image": "assets/edu/lmu.jpeg",
             "skills": [
                 "C++",
                 "Python",
@@ -176,7 +176,7 @@
             "location": "Paris, France",
             "degree": "Informatique",
             "date": "2018 - 2020",
-            "image": "src/assets/edu/esiea.jpeg",
+            "image": "assets/edu/esiea.jpeg",
             "skills": [
                 "C++",
                 "Python",
