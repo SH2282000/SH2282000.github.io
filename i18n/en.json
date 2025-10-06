@@ -1,7 +1,7 @@
 {
     "header": {
         "name": "SHANNAH SANTUCCI",
-        "description": "Programmer, Designer and Software Developer. Deep Learning and AI enthusiast. — Dual French and German, 22yo",
+        "description": "Programmer, Designer and Software Developer. Deep Learning and AI enthusiast. — Dual French and German",
         "languages": {
             "german": "🇩🇪",
             "french": "🇫🇷"
@@ -107,6 +107,97 @@
             }
         ]
     },
+    "education": [
+        {
+            "institution": "Ludwig-Maximilians-Universität München",
+            "location": "Munich, Bavaria, Germany",
+            "degree": "Master's Degree, Computer Science",
+            "date": "2023 - 2025",
+            "image": "src/assets/edu/esiea.jpeg",
+            "skills": [
+                "C++",
+                "Python",
+                "Haskell",
+                "High Performance Computing (HPC)",
+                "Java",
+                "Big Data",
+                "Deep Neural Networks (DNN)",
+                "Cybersecurity",
+                "Generative AI",
+                "Transformers",
+                "Visual Studio",
+                "Data Visualization",
+                "Logic Programming",
+                "Computer Hardware",
+                "Computer Simulations",
+                "Computer Vision"
+            ]
+        },
+        {
+            "institution": "Technical University of Munich",
+            "location": "Munich, Bavaria, Germany",
+            "date": "2022 - 2024",
+            "image": "src/assets/edu/tum.jpeg",
+            "skills": [
+                "Quantum Computing",
+                "High Performance Computing (HPC)",
+                "Cognitive Science",
+                "Robot Operating System (ROS)",
+                "Robotics",
+                "Embedded Linux",
+                "Embedded Systems",
+                "Big Data",
+                "Applied Mathematics",
+                "Mathematical Modeling"
+            ]
+        },
+        {
+            "institution": "Ludwig-Maximilians-Universität München",
+            "location": "Munich, Bavaria, Germany",
+            "degree": "Bachelor's degree, Informatique",
+            "date": "2020 - 2022",
+            "image": "src/assets/edu/lmu.jpeg",
+            "skills": [
+                "C++",
+                "Python",
+                "Haskell",
+                "Functional Programming",
+                "Linear Algebra",
+                "Algorithm Design",
+                "Data Structures",
+                "Operating Systems",
+                "Formal Languages",
+                "Formal Verification",
+                "Computational Complexity"
+            ]
+        },
+        {
+            "institution": "ESIEA - École d'Ingénieur·e·s d'un numérique utile",
+            "location": "Paris, France",
+            "degree": "Informatique",
+            "date": "2018 - 2020",
+            "image": "src/assets/edu/esiea.jpeg",
+            "skills": [
+                "C++",
+                "Python",
+                "Electronics",
+                "Electrical Engineering",
+                "Circuit Design",
+                "Analog Circuit Design",
+                "Printed Circuit Board (PCB) Design",
+                "Integrated Circuits (IC)",
+                "Digital Circuit Design",
+                "Mixed-Signal Integrated Circuits",
+                "Applied Mathematics",
+                "Mathematica",
+                "MATLAB",
+                "C",
+                "Artificial Neural Networks",
+                "Computational Complexity",
+                "Robotics"
+            ]
+        }
+    ],
     "background": {
         "languages": {
             "title": "Languages",

@@ -1,7 +1,260 @@
 {
-    "name": "Shannah Santucci",
-    "description": "Programmeur, Designer et Développeur Logiciel. Passionné par l'apprentissage profond et l'intelligence artificielle. --- Double nationalité française et allemande",
-    "professionalSummary": "RÉSUMÉ PROFESSIONNEL",
-    "workingStudent": "Étudiant salarié – Apprentissage profond et intelligence artificielle @ SIEMENS AG"
-    
+    "header": {
+        "name": "SHANNAH SANTUCCI",
+        "description": "Programmeur",
+        "languages": {
+            "german": "🇩🇪",
+            "french": "🇫🇷"
+        }
+    },
+    "sections": {
+        "professionalSummary": "RÉSUMÉ PROFESSIONNEL",
+        "backgroundSummary": "BACKGROUND SUMMARY",
+        "ongoingEngagements": "Ongoing Engagements",
+        "blog": "For the latest updates and articles, please visit my blog.",
+        "construction": {
+            "title": "I'm glad that you're here, this website is in construction. Work In Progress!",
+            "subtitle": "Hoped you wouldn't scroll that far, but you did..."
+        }
+    },
+    "resume": {
+        "items": [
+            {
+                "date": "Nov 2024 – Present",
+                "title": "Master Thesis – Trustworthy LLMs in Industrial Contexts",
+                "company": "Siemens AG",
+                "location": "Munich, Bavaria, Germany",
+                "image": "src/assets/siemens.jpeg",
+                "description": "Currently writing my Master’s thesis on 'Trustworthy LLMs in Industrial Contexts'. Using VLAs and vision-based RAG for generation of machining operation sequences from CAM datasets. Created an evaluation framework to assess correctness on industrial data. Focused on ensuring reliable propagation of input redactions, minimizing hallucinations, and deriving attention-based metrics for trust and safety in industrial AI."
+            },
+            {
+                "date": "Sep 2022 – Present",
+                "title": "Working Student – LLM, DL, Robustness and Best Practices",
+                "company": "Siemens AG",
+                "location": "Munich, Bavaria, Germany",
+                "image": "src/assets/siemens.jpeg",
+                "description": "Updated and co-authored a Copier-based Python package template to enforce SafeMLOps best practices with CI/CD, security scanning, and automated documentation. Integrated GPU support, Poetry dependency management, and pre-commit hooks for reproducible ML development.",
+                "skills": [
+                    "Deep Learning",
+                    "Linux",
+                    "AI",
+                    "Python",
+                    "PyTorch",
+                    "TensorFlow",
+                    "Keras",
+                    "Computer Vision"
+                ]
+            },
+            {
+                "date": "Oct 2021 – Dec 2022",
+                "title": "Working Student – Certification of Model Robustness",
+                "company": "Siemens Mobility",
+                "location": "Munich, Bavaria, Germany",
+                "image": "src/assets/siemens.jpeg",
+                "description": "Maintained CNN (U-Net) segmentation pipelines while promoting open-source best practices. Used Poetry for dependency management and ensured reproducibility across platforms. Contributed to Siemens AI Summit deliverables and improved cross-team collaboration on legacy codebases using DVC."
+            },
+            {
+                "date": "May 2022 – Sep 2022",
+                "title": "Bachelor Thesis – Certification of Model Robustness",
+                "company": "Siemens AG",
+                "location": "Munich, Bavaria, Germany",
+                "image": "src/assets/siemens.jpeg",
+                "description": "Completed a Bachelor’s thesis on 'Model Certification Against Natural Perturbations', aligning with EU AI Act compliance. Focused on parallelizing robustness estimation to detect misclassification under natural noise."
+            },
+            {
+                "date": "Mar 2022 – Sep 2022",
+                "title": "Intern – Prototype Development",
+                "company": "BMW Group",
+                "location": "Munich, Bavaria, Germany",
+                "image": "src/assets/bmw.png",
+                "description": "Evaluated a new login concept, 'Fast Login', for in-car systems. Designed and tested Android prototypes, integrating Bluetooth Low Energy and AWS Lambda backends.",
+                "skills": [
+                    "Android",
+                    "AWS",
+                    "Kotlin",
+                    "C++",
+                    "Python",
+                    "Bluetooth",
+                    "Mobile Apps"
+                ]
+            },
+            {
+                "date": "Jun 2014 – Jan 2019",
+                "title": "Co-Founder – Drone Development",
+                "company": "ROTOR",
+                "location": "Fontainebleau, Île-de-France, France",
+                "description": "Designed and built unmanned aerial vehicles for aerial operations and surveillance. Managed electronics, CAD, and flight control systems under a non-profit association.",
+                "skills": [
+                    "Drone Piloting",
+                    "Electronics",
+                    "CAD",
+                    "Blender",
+                    "Python",
+                    "Web Development"
+                ]
+            },
+            {
+                "date": "Jan 2016 – Apr 2016",
+                "title": "Electronics Design Engineer",
+                "company": "Kimeo Project",
+                "location": "Paris, France",
+                "description": "Developed and assembled custom electronic systems for laser cutting and embedded applications.",
+                "skills": [
+                    "Laser Cutting",
+                    "Embedded Systems",
+                    "Electronics"
+                ]
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Ludwig-Maximilians-Universität München",
+            "location": "Munich, Bavaria, Germany",
+            "degree": "Master's Degree, Computer Science",
+            "date": "2023 - 2025",
+            "image": "/assets/edu/lmu.jpeg",
+            "skills": [
+                "C++",
+                "Python",
+                "Haskell",
+                "High Performance Computing (HPC)",
+                "Java",
+                "Big Data",
+                "Deep Neural Networks (DNN)",
+                "Cybersecurity",
+                "Generative AI",
+                "Transformers",
+                "Visual Studio",
+                "Data Visualization",
+                "Logic Programming",
+                "Computer Hardware",
+                "Computer Simulations",
+                "Computer Vision"
+            ]
+        },
+        {
+            "institution": "Technical University of Munich",
+            "location": "Munich, Bavaria, Germany",
+            "date": "2022 - 2024",
+            "image": "/assets/edu/tum.jpeg",
+            "skills": [
+                "Quantum Computing",
+                "High Performance Computing (HPC)",
+                "Cognitive Science",
+                "Robot Operating System (ROS)",
+                "Robotics",
+                "Embedded Linux",
+                "Embedded Systems",
+                "Big Data",
+                "Applied Mathematics",
+                "Mathematical Modeling"
+            ]
+        },
+        {
+            "institution": "Ludwig-Maximilians-Universität München",
+            "location": "Munich, Bavaria, Germany",
+            "degree": "Bachelor's degree, Informatique",
+            "date": "2020 - 2022",
+            "image": "/assets/edu/lmu.jpeg",
+            "skills": [
+                "C++",
+                "Python",
+                "Haskell",
+                "Functional Programming",
+                "Linear Algebra",
+                "Algorithm Design",
+                "Data Structures",
+                "Operating Systems",
+                "Formal Languages",
+                "Formal Verification",
+                "Computational Complexity"
+            ]
+        },
+        {
+            "institution": "ESIEA - École d'Ingénieur·e·s d'un numérique utile",
+            "location": "Paris, France",
+            "degree": "Informatique",
+            "date": "2018 - 2020",
+            "image": "/assets/edu/esiea.jpeg",
+            "skills": [
+                "C++",
+                "Python",
+                "Electronics",
+                "Electrical Engineering",
+                "Circuit Design",
+                "Analog Circuit Design",
+                "Printed Circuit Board (PCB) Design",
+                "Integrated Circuits (IC)",
+                "Digital Circuit Design",
+                "Mixed-Signal Integrated Circuits",
+                "Applied Mathematics",
+                "Mathematica",
+                "MATLAB",
+                "C",
+                "Artificial Neural Networks",
+                "Computational Complexity",
+                "Robotics"
+            ]
+        }
+    ],
+    "background": {
+        "languages": {
+            "title": "Languages",
+            "items": [
+                "🇺🇸 English: Fluent Speaker / Writer",
+                "🇫🇷 French: Mother Tongue",
+                "🇩🇪 German: Father Tongue"
+            ]
+        },
+        "interests": {
+            "title": "Interests and Hobbies",
+            "items": [
+                "Machine Learning",
+                "Software",
+                "Robotics",
+                "2D and 3D Modeling",
+                "Electronics",
+                "Web Development",
+                "Management",
+                "Tech News",
+                "Athletics",
+                "Saxophone (11 years)",
+                "Traveling, exploration"
+            ]
+        },
+        "skills": {
+            "title": "Technical Skills",
+            "categories": {
+                "backend": {
+                    "title": "Backend",
+                    "text": "Developed good knowledge of C, C++, C#, Swift, Kotlin, Java, Python (AWS scalable app) and Haskell in order to lead the projects that I’ve accomplished. Since a young age, working passionately both in and outside school in various fields such as programming and electronics."
+                },
+                "frontend": {
+                    "title": "Frontend",
+                    "text": "SwiftUI, SpriteKit, JavaScript (CSS), Bootstrap, Angular, JavaFX, React and more…"
+                },
+                "electronics": {
+                    "title": "Electronics",
+                    "text": "Passionate about prototyping many different things on breadboards and PCBs. DIY lover."
+                },
+                "modeling": {
+                    "title": "2D and 3D modeling",
+                    "text": "Modeling with open-source programs including Blender, Inkscape, and FreeCAD. After finishing modeling, I like to build my creations using 3D Printers, CNC machines, and Laser engravers."
+                }
+            }
+        }
+    },
+    "engagements": {
+        "items": [
+            "🔭 Ongoing work: Model Robustness at Siemens.",
+            "🌱 Personal projects related to machine learning.",
+            "👨‍💻 Portfolio of projects available on GitHub.",
+            "👯 Seeking active programming partners.",
+            "📫 Available for interesting opportunities, worldwide."
+        ]
+    },
+    "footer": {
+        "credits": "Website developed and maintained by shannah.santucci _at_ gmail.com. Please report any errors or lack of consistency."
+    }
 }
