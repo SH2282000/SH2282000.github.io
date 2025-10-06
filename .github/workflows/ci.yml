@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -27,7 +27,7 @@ jobs:
       - name: Deploy to GitHub Pages
         run: |
           mkdir -p gh-pages
-          cp -r build/* gh-pages/
+          cp -r dist/* gh-pages/
           cd gh-pages
           git init
           git config user.name "GitHub Actions"
