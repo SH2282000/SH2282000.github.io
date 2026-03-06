@@ -20,89 +20,85 @@
     "resume": {
         "items": [
             {
-                "date": "Nov 2024 – Gegenwart",
-                "title": "Masterarbeit – Vertrauenswürdige LLMs in industriellen Kontexten",
-                "company": "Siemens AG",
+                "date": "Jun 2025 – Dez 2025",
+                "title": "Masterarbeit: Vertrauenswürdige LLMs in industriellen Kontexten",
+                "company": "Siemens",
                 "location": "München, Bayern, Deutschland",
                 "image": "assets/siemens.jpeg",
-                "description": "Masterarbeit über 'Vertrauenswürdige LLMs in industriellen Kontexten'. Einsatz von VLAs und visionsbasiertem RAG zur Generierung von Bearbeitungssequenzen aus CAM-Datensätzen. Entwicklung eines Evaluierungsrahmens zur Bewertung der Korrektheit auf Industriedaten. Schwerpunkt auf zuverlässiger Weitergabe von Eingaberedaktionen, Minimierung von Halluzinationen und Ableitung aufmerksamkeitsbasierter Metriken für Vertrauen und Sicherheit in industrieller KI."
-            },
-            {
-                "date": "Sep 2022 – Gegenwart",
-                "title": "Werkstudent – LLM, DL, Robustheit und Best Practices",
-                "company": "Siemens AG",
-                "location": "München, Bayern, Deutschland",
-                "image": "assets/siemens.jpeg",
-                "description": "Aktualisierung und Mitentwicklung einer auf Copier basierenden Python-Paketvorlage zur Durchsetzung von SafeMLOps-Best Practices mit CI/CD, Sicherheits-Scans und automatisierter Dokumentation. Integration von GPU-Unterstützung, Poetry-Abhängigkeitsverwaltung und Pre-Commit-Hooks für reproduzierbare ML-Entwicklung.",
+                "description": "Aufbau einer visionsbasierten RAG-Pipeline zur Generierung von CAM-Bearbeitungssequenzen, flankiert von einem maßgeschneiderten Evaluierungs-Framework zur Gewährleistung der KI-Sicherheit. Nutzung von Attention-Layer-Metriken, um die zuverlässige Weitergabe von Datenredaktionen zu garantieren, Halluzinationen effektiv zu eliminieren und vertrauliche Metadaten in industriellen Einsatzgebieten zu schützen.",
                 "skills": [
-                    "Deep Learning",
-                    "Linux",
-                    "KI",
+                    "Große Sprachmodelle (LLMs)",
+                    "Vision-Language-Modelle (VLAs)",
+                    "Retrieval-Augmented Generation (RAG)",
+                    "KI-Sicherheit",
                     "Python",
-                    "PyTorch",
-                    "TensorFlow",
-                    "Keras",
                     "Computer Vision"
                 ]
             },
             {
-                "date": "Okt 2021 – Dez 2022",
-                "title": "Werkstudent – Zertifizierung der Modellrobustheit",
-                "company": "Siemens Mobility",
+                "date": "Okt 2021 – Dez 2025",
+                "title": "Werkstudent – AI/ML & SafeMLOps",
+                "company": "Siemens",
                 "location": "München, Bayern, Deutschland",
                 "image": "assets/siemens.jpeg",
-                "description": "Wartung von CNN-(U-Net)-Segmentierungspipelines und Förderung von Open-Source-Best Practices. Verwendung von Poetry für Abhängigkeitsmanagement und Sicherstellung der Reproduzierbarkeit über Plattformen hinweg. Beitrag zu den Siemens AI Summit Deliverables und Verbesserung der teamübergreifenden Zusammenarbeit bei Legacy-Code mit DVC."
+                "description": "Entwicklung einer unternehmensweiten SafeMLOps-Python-Vorlage (unter Verwendung von Copier und Jinja) zur Standardisierung von CI/CD, Sicherheits-Scans und GPU-gestütztem Modelltraining über mehrere Engineering-Teams hinweg.\n\nWartung und Optimierung eines U-Net-CNNs zur Bildsegmentierung bei Siemens Mobility, mit Einsatz von DVC und plattformübergreifendem Abhängigkeitsmanagement (Poetry) zur Reduzierung falsch-positiver Meldungen.\n\nModernisierung komplexer Legacy-Codebases und erfolgreiche Lieferung kritischer Modellrobustheits- und Zertifizierungsevaluationen für den jährlichen Siemens AI Summit.",
+                "skills": [
+                    "Deep Learning",
+                    "Linux",
+                    "Python",
+                    "PyTorch",
+                    "TensorFlow",
+                    "Computer Vision",
+                    "CI/CD",
+                    "MLOps"
+                ]
             },
             {
                 "date": "Mai 2022 – Sep 2022",
-                "title": "Bachelorarbeit – Zertifizierung der Modellrobustheit",
-                "company": "Siemens AG",
+                "title": "Bachelorarbeit - Zertifizierung der Modellrobustheit gegen natürliche Störungen",
+                "company": "Siemens",
                 "location": "München, Bayern, Deutschland",
                 "image": "assets/siemens.jpeg",
-                "description": "Abschlussarbeit zum Thema 'Zertifizierung von Modellen gegen natürliche Störungen' in Übereinstimmung mit der EU-AI-Act-Konformität. Fokus auf Parallelisierung der Robustheitsschätzung zur Erkennung von Fehlklassifikationen unter natürlichem Rauschen."
+                "description": "Verfassen der Bachelorarbeit über „Modellzertifizierung gegen natürliche Störungen“, in Übereinstimmung mit den Compliance-Anforderungen des kommenden EU AI Act. Die Arbeit fokussierte sich auf die Optimierung und Parallelisierung von Methoden zur Bestimmung des Ausmaßes natürlicher Störungen, die zu Fehlklassifikationen oder Segmentierungsfehlern führen.",
+                "skills": [
+                    "KI-Compliance",
+                    "Modellrobustheit",
+                    "Python",
+                    "Parallele Programmierung",
+                    "Machine Learning"
+                ]
             },
             {
                 "date": "Mär 2022 – Sep 2022",
-                "title": "Praktikant – Prototypentwicklung",
+                "title": "Praktikant Prototypenentwicklung",
                 "company": "BMW Group",
                 "location": "München, Bayern, Deutschland",
                 "image": "assets/bmw.png",
-                "description": "Bewertung eines neuen Login-Konzepts 'Fast Login' für Fahrzeugsysteme. Entwurf und Test von Android-Prototypen mit Integration von Bluetooth Low Energy und AWS-Lambda-Backends.",
+                "description": "Bewertung eines neuen Fahrzeug-Login-Konzepts, NDA. Proof-of-Concept unter Verwendung von Bluetooth Low Energy (BLE) und einem sicheren AWS-basierten Backend.",
                 "skills": [
                     "Android",
                     "AWS",
                     "Kotlin",
                     "C++",
                     "Python",
-                    "Bluetooth",
+                    "Bluetooth Low Energy",
                     "Mobile Apps"
                 ]
             },
             {
                 "date": "Jun 2014 – Jan 2019",
-                "title": "Mitbegründer – Drohnenentwicklung",
+                "title": "Gründer @ ROTOR",
                 "company": "ROTOR",
                 "location": "Fontainebleau, Île-de-France, Frankreich",
-                "description": "Entwicklung und Bau unbemannter Luftfahrzeuge für Luftoperationen und Überwachung. Verantwortlich für Elektronik, CAD und Flugsteuerungssysteme innerhalb eines gemeinnützigen Vereins.",
+                "description": "Gründung einer Organisation, die sich auf das Design, die Weiterentwicklung und Herstellung von hochmodernen FPV- und UAV-Drohnen spezialisiert hat.\nBau und Einsatz von über 30 maßgeschneiderten Drohnen, einschließlich fortschrittlicher Hexakopter für professionelle Kunden aus der Fotografie.\n\nEingetragen als gemeinnützige Organisation nach französischem Recht vom 1. Juli 1901 (Association Loi 1901).",
                 "skills": [
                     "Drohnensteuerung",
                     "Elektronik",
                     "CAD",
                     "Blender",
                     "Python",
-                    "Webentwicklung"
-                ]
-            },
-            {
-                "date": "Jan 2016 – Apr 2016",
-                "title": "Elektronik-Designingenieur",
-                "company": "Kimeo Project",
-                "location": "Paris, Frankreich",
-                "description": "Entwicklung und Montage kundenspezifischer elektronischer Systeme für Laserschneiden und eingebettete Anwendungen.",
-                "skills": [
-                    "Laserschneiden",
-                    "Eingebettete Systeme",
-                    "Elektronik"
+                    "Webentwicklung",
+                    "Prototyping"
                 ]
             }
         ]

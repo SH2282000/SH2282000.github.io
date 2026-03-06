@@ -20,89 +20,85 @@
     "resume": {
         "items": [
             {
-                "date": "Nov 2024 – Present",
-                "title": "Master Thesis – Trustworthy LLMs in Industrial Contexts",
-                "company": "Siemens AG",
+                "date": "Jun 2025 – Dec 2025",
+                "title": "Master's Thesis: Trustworthy LLMs in Industrial Contexts",
+                "company": "Siemens",
                 "location": "Munich, Bavaria, Germany",
                 "image": "assets/siemens.jpeg",
-                "description": "Master’s thesis on 'Trustworthy LLMs in Industrial Contexts'. Using VLAs and vision-based RAG for generation of machining operation sequences from CAM datasets. Created an evaluation framework to assess correctness on industrial data. Focused on ensuring reliable propagation of input redactions, minimizing hallucinations, and deriving attention-based metrics for trust and safety in industrial AI."
-            },
-            {
-                "date": "Sep 2022 – Present",
-                "title": "Working Student – LLM, DL, Robustness and Best Practices",
-                "company": "Siemens AG",
-                "location": "Munich, Bavaria, Germany",
-                "image": "assets/siemens.jpeg",
-                "description": "Updated and co-authored a Copier-based Python package template to enforce SafeMLOps best practices with CI/CD, security scanning, and automated documentation. Integrated GPU support, Poetry dependency management, and pre-commit hooks for reproducible ML development.",
+                "description": "Built a vision-based RAG pipeline to generate CAM machining sequences, alongside a custom evaluation framework to ensure AI safety. Leveraged attention layer metrics to guarantee the reliable propagation of data redactions, effectively eliminating hallucinations and safeguarding confidential metadata in industrial deployments.",
                 "skills": [
-                    "Deep Learning",
-                    "Linux",
-                    "AI",
+                    "Large Language Models (LLMs)",
+                    "Vision-Language Models (VLAs)",
+                    "Retrieval-Augmented Generation (RAG)",
+                    "AI Safety",
                     "Python",
-                    "PyTorch",
-                    "TensorFlow",
-                    "Keras",
                     "Computer Vision"
                 ]
             },
             {
-                "date": "Oct 2021 – Dec 2022",
-                "title": "Working Student – Certification of Model Robustness",
-                "company": "Siemens Mobility",
+                "date": "Oct 2021 – Dec 2025",
+                "title": "Working Student – AI/ML & SafeMLOps",
+                "company": "Siemens",
                 "location": "Munich, Bavaria, Germany",
                 "image": "assets/siemens.jpeg",
-                "description": "Maintained CNN (U-Net) segmentation pipelines while promoting open-source best practices. Used Poetry for dependency management and ensured reproducibility across platforms. Contributed to Siemens AI Summit deliverables and improved cross-team collaboration on legacy codebases using DVC."
+                "description": "Engineered a company-wide SafeMLOps Python template (utilizing Copier and Jinja) to standardize CI/CD, security scanning, and GPU-enabled model training across multiple engineering teams.\n\nMaintained and optimized a U-Net CNN for image segmentation at Siemens Mobility, leveraging DVC and cross-platform dependency management (Poetry) to reduce false positive calls.\n\nModernized complex legacy codebases and successfully delivered critical model robustness and certification evaluations for the annual Siemens AI Summit.",
+                "skills": [
+                    "Deep Learning",
+                    "Linux",
+                    "Python",
+                    "PyTorch",
+                    "TensorFlow",
+                    "Computer Vision",
+                    "CI/CD",
+                    "MLOps"
+                ]
             },
             {
                 "date": "May 2022 – Sep 2022",
-                "title": "Bachelor Thesis – Certification of Model Robustness",
-                "company": "Siemens AG",
+                "title": "Bachelor Thesis - Certification of Model's Robustness against Natural Perturbations",
+                "company": "Siemens",
                 "location": "Munich, Bavaria, Germany",
                 "image": "assets/siemens.jpeg",
-                "description": "Completed a Bachelor’s thesis on 'Model Certification Against Natural Perturbations', aligning with EU AI Act compliance. Focused on parallelizing robustness estimation to detect misclassification under natural noise."
+                "description": "Completed my Bachelor's thesis on “Model Certification Against Natural Perturbations”, aligned with compliance requirements from the upcoming EU AI Act. The work focused on optimizing and parallelizing methods to determine the extent of natural perturbations that lead to misclassification or segmentation errors.",
+                "skills": [
+                    "AI Compliance",
+                    "Model Robustness",
+                    "Python",
+                    "Parallel Programming",
+                    "Machine Learning"
+                ]
             },
             {
                 "date": "Mar 2022 – Sep 2022",
-                "title": "Intern – Prototype Development",
+                "title": "Intern Prototype Development",
                 "company": "BMW Group",
                 "location": "Munich, Bavaria, Germany",
                 "image": "assets/bmw.png",
-                "description": "Evaluated a new login concept, 'Fast Login', for in-car systems. Designed and tested Android prototypes, integrating Bluetooth Low Energy and AWS Lambda backends.",
+                "description": "Evaluation of a new car login concept, NDA. Proof-of-Concept utilizing Bluetooth Low Energy (BLE) and a secure AWS-based backend.",
                 "skills": [
                     "Android",
                     "AWS",
                     "Kotlin",
                     "C++",
                     "Python",
-                    "Bluetooth",
+                    "Bluetooth Low Energy",
                     "Mobile Apps"
                 ]
             },
             {
                 "date": "Jun 2014 – Jan 2019",
-                "title": "Co-Founder – Drone Development",
+                "title": "Founder @ ROTOR",
                 "company": "ROTOR",
                 "location": "Fontainebleau, Île-de-France, France",
-                "description": "Designed and built unmanned aerial vehicles for aerial operations and surveillance. Managed electronics, CAD, and flight control systems under a non-profit association.",
+                "description": "Founded an organization specializing in the design, refinement, and manufacturing of state-of-the-art FPV and UAV drones.\nBuilt and deployed over 30 custom drones, including advanced hexacopters for professional photography clients.\n\nRegistered as a non-profit organization under the French Law of 1 July 1901 (Association Loi 1901).",
                 "skills": [
                     "Drone Piloting",
                     "Electronics",
                     "CAD",
                     "Blender",
                     "Python",
-                    "Web Development"
-                ]
-            },
-            {
-                "date": "Jan 2016 – Apr 2016",
-                "title": "Electronics Design Engineer",
-                "company": "Kimeo Project",
-                "location": "Paris, France",
-                "description": "Developed and assembled custom electronic systems for laser cutting and embedded applications.",
-                "skills": [
-                    "Laser Cutting",
-                    "Embedded Systems",
-                    "Electronics"
+                    "Web Development",
+                    "Prototyping"
                 ]
             }
         ]
