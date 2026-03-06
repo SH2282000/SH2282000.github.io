@@ -24,7 +24,7 @@
                 "title": "Master's Thesis: Trustworthy LLMs in Industrial Contexts",
                 "company": "Siemens",
                 "location": "Munich, Bavaria, Germany",
-                "image": "assets/siemens.jpeg",
+                "image": "assets/pro/siemens.jpeg",
                 "description": "Built a vision-based RAG pipeline to generate CAM machining sequences, alongside a custom evaluation framework to ensure AI safety. Leveraged attention layer metrics to guarantee the reliable propagation of data redactions, effectively eliminating hallucinations and safeguarding confidential metadata in industrial deployments.",
                 "skills": [
                     "Large Language Models (LLMs)",
@@ -40,7 +40,7 @@
                 "title": "Working Student – AI/ML & SafeMLOps",
                 "company": "Siemens",
                 "location": "Munich, Bavaria, Germany",
-                "image": "assets/siemens.jpeg",
+                "image": "assets/pro/siemens.jpeg",
                 "description": "Engineered a company-wide SafeMLOps Python template (utilizing Copier and Jinja) to standardize CI/CD, security scanning, and GPU-enabled model training across multiple engineering teams.\n\nMaintained and optimized a U-Net CNN for image segmentation at Siemens Mobility, leveraging DVC and cross-platform dependency management (Poetry) to reduce false positive calls.\n\nModernized complex legacy codebases and successfully delivered critical model robustness and certification evaluations for the annual Siemens AI Summit.",
                 "skills": [
                     "Deep Learning",
@@ -58,7 +58,7 @@
                 "title": "Bachelor Thesis - Certification of Model's Robustness against Natural Perturbations",
                 "company": "Siemens",
                 "location": "Munich, Bavaria, Germany",
-                "image": "assets/siemens.jpeg",
+                "image": "assets/pro/siemens.jpeg",
                 "description": "Completed my Bachelor's thesis on “Model Certification Against Natural Perturbations”, aligned with compliance requirements from the upcoming EU AI Act. The work focused on optimizing and parallelizing methods to determine the extent of natural perturbations that lead to misclassification or segmentation errors.",
                 "skills": [
                     "AI Compliance",
@@ -73,7 +73,7 @@
                 "title": "Intern Prototype Development",
                 "company": "BMW Group",
                 "location": "Munich, Bavaria, Germany",
-                "image": "assets/bmw.png",
+                "image": "assets/pro/bmw.png",
                 "description": "Evaluation of a new car login concept, NDA. Proof-of-Concept utilizing Bluetooth Low Energy (BLE) and a secure AWS-based backend.",
                 "skills": [
                     "Android",
@@ -89,6 +89,7 @@
                 "date": "Jun 2014 – Jan 2019",
                 "title": "Founder @ ROTOR",
                 "company": "ROTOR",
+                "image": "assets/pro/rotor.png",
                 "location": "Fontainebleau, Île-de-France, France",
                 "description": "Founded an organization specializing in the design, refinement, and manufacturing of state-of-the-art FPV and UAV drones.\nBuilt and deployed over 30 custom drones, including advanced hexacopters for professional photography clients.\n\nRegistered as a non-profit organization under the French Law of 1 July 1901 (Association Loi 1901).",
                 "skills": [

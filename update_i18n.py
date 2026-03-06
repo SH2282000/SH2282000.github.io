@@ -7,7 +7,7 @@ items_en = [
         "title": "Master's Thesis: Trustworthy LLMs in Industrial Contexts",
         "company": "Siemens",
         "location": "Munich, Bavaria, Germany",
-        "image": "assets/siemens.jpeg",
+        "image": "assets/pro/siemens.jpeg",
         "description": "Built a vision-based RAG pipeline to generate CAM machining sequences, alongside a custom evaluation framework to ensure AI safety. Leveraged attention layer metrics to guarantee the reliable propagation of data redactions, effectively eliminating hallucinations and safeguarding confidential metadata in industrial deployments.",
         "skills": [
             "Large Language Models (LLMs)", 
@@ -23,7 +23,7 @@ items_en = [
         "title": "Working Student – AI/ML & SafeMLOps",
         "company": "Siemens",
         "location": "Munich, Bavaria, Germany",
-        "image": "assets/siemens.jpeg",
+        "image": "assets/pro/siemens.jpeg",
         "description": "Engineered a company-wide SafeMLOps Python template (utilizing Copier and Jinja) to standardize CI/CD, security scanning, and GPU-enabled model training across multiple engineering teams.\n\nMaintained and optimized a U-Net CNN for image segmentation at Siemens Mobility, leveraging DVC and cross-platform dependency management (Poetry) to reduce false positive calls.\n\nModernized complex legacy codebases and successfully delivered critical model robustness and certification evaluations for the annual Siemens AI Summit.",
         "skills": [
             "Deep Learning", 
@@ -41,7 +41,7 @@ items_en = [
         "title": "Bachelor Thesis - Certification of Model's Robustness against Natural Perturbations",
         "company": "Siemens",
         "location": "Munich, Bavaria, Germany",
-        "image": "assets/siemens.jpeg",
+        "image": "assets/pro/siemens.jpeg",
         "description": "Completed my Bachelor's thesis on \u201cModel Certification Against Natural Perturbations\u201d, aligned with compliance requirements from the upcoming EU AI Act. The work focused on optimizing and parallelizing methods to determine the extent of natural perturbations that lead to misclassification or segmentation errors.",
         "skills": [
             "AI Compliance", 
@@ -56,7 +56,7 @@ items_en = [
         "title": "Intern Prototype Development",
         "company": "BMW Group",
         "location": "Munich, Bavaria, Germany",
-        "image": "assets/bmw.png",
+        "image": "assets/pro/bmw.png",
         "description": "Evaluation of a new car login concept, NDA. Proof-of-Concept utilizing Bluetooth Low Energy (BLE) and a secure AWS-based backend.",
         "skills": [
             "Android", 
@@ -92,7 +92,7 @@ items_fr = [
         "title": "Mémoire de Master : LLM fiables dans des contextes industriels",
         "company": "Siemens",
         "location": "Munich, Bavière, Allemagne",
-        "image": "assets/siemens.jpeg",
+        "image": "assets/pro/siemens.jpeg",
         "description": "Création d'un pipeline RAG basé sur la vision afin de générer des séquences d'opérations d'usinage à partir de données CAM, accompagné d'un cadre d'évaluation personnalisé pour garantir la sécurité de l'IA. Utilisation de métriques de couches d'attention pour garantir la propagation fiable des rédactions de données, éliminant efficacement les hallucinations et protégeant les métadonnées confidentielles lors des déploiements industriels.",
         "skills": [
             "Grands Modèles de Langage (LLM)", 
@@ -108,7 +108,7 @@ items_fr = [
         "title": "Étudiant en emploi – AI/ML & SafeMLOps",
         "company": "Siemens",
         "location": "Munich, Bavière, Allemagne",
-        "image": "assets/siemens.jpeg",
+        "image": "assets/pro/siemens.jpeg",
         "description": "Conception d'un modèle Python SafeMLOps à l'échelle de l'entreprise (utilisant Copier et Jinja) pour standardiser la CI/CD, l'analyse de sécurité et l'entraînement de modèles activés par GPU au sein de plusieurs équipes d'ingénierie.\n\nMaintien et optimisation d'un CNN U-Net pour la segmentation d'images chez Siemens Mobility, en tirant parti de DVC et de la gestion des dépendances multiplateformes (Poetry) pour réduire les faux positifs.\n\nModernisation de bases de code complexes héritées et livraison avec succès d'évaluations cruciales sur la robustesse et la certification des modèles pour le sommet annuel de l'IA de Siemens.",
         "skills": [
             "Deep Learning", 
@@ -126,7 +126,7 @@ items_fr = [
         "title": "Mémoire de Licence - Certification de la Robustesse des Modèles contre les Perturbations Naturelles",
         "company": "Siemens",
         "location": "Munich, Bavière, Allemagne",
-        "image": "assets/siemens.jpeg",
+        "image": "assets/pro/siemens.jpeg",
         "description": "Réalisation de mon mémoire de Licence sur la \u00ab Certification des Modèles contre les Perturbations Naturelles \u00bb, en alignement avec les exigences de conformité du futur règlement européen sur l'IA (EU AI Act). Le travail s'est concentré sur l'optimisation et la parallélisation des méthodes pour déterminer l'étendue des perturbations naturelles conduisant à des erreurs de classification ou de segmentation.",
         "skills": [
             "Conformité de l'IA", 
@@ -141,7 +141,7 @@ items_fr = [
         "title": "Stagiaire Développement de Prototype",
         "company": "BMW Group",
         "location": "Munich, Bavière, Allemagne",
-        "image": "assets/bmw.png",
+        "image": "assets/pro/bmw.png",
         "description": "Évaluation d'un nouveau concept de connexion de voiture, sous NDA. Preuve de concept (PoC) utilisant le Bluetooth Low Energy (BLE) et un backend sécurisé basé sur AWS.",
         "skills": [
             "Android", 
@@ -177,7 +177,7 @@ items_de = [
         "title": "Masterarbeit: Vertrauenswürdige LLMs in industriellen Kontexten",
         "company": "Siemens",
         "location": "München, Bayern, Deutschland",
-        "image": "assets/siemens.jpeg",
+        "image": "assets/pro/siemens.jpeg",
         "description": "Aufbau einer visionsbasierten RAG-Pipeline zur Generierung von CAM-Bearbeitungssequenzen, flankiert von einem maßgeschneiderten Evaluierungs-Framework zur Gewährleistung der KI-Sicherheit. Nutzung von Attention-Layer-Metriken, um die zuverlässige Weitergabe von Datenredaktionen zu garantieren, Halluzinationen effektiv zu eliminieren und vertrauliche Metadaten in industriellen Einsatzgebieten zu schützen.",
         "skills": [
             "Große Sprachmodelle (LLMs)", 
@@ -193,7 +193,7 @@ items_de = [
         "title": "Werkstudent – AI/ML & SafeMLOps",
         "company": "Siemens",
         "location": "München, Bayern, Deutschland",
-        "image": "assets/siemens.jpeg",
+        "image": "assets/pro/siemens.jpeg",
         "description": "Entwicklung einer unternehmensweiten SafeMLOps-Python-Vorlage (unter Verwendung von Copier und Jinja) zur Standardisierung von CI/CD, Sicherheits-Scans und GPU-gestütztem Modelltraining über mehrere Engineering-Teams hinweg.\n\nWartung und Optimierung eines U-Net-CNNs zur Bildsegmentierung bei Siemens Mobility, mit Einsatz von DVC und plattformübergreifendem Abhängigkeitsmanagement (Poetry) zur Reduzierung falsch-positiver Meldungen.\n\nModernisierung komplexer Legacy-Codebases und erfolgreiche Lieferung kritischer Modellrobustheits- und Zertifizierungsevaluationen für den jährlichen Siemens AI Summit.",
         "skills": [
             "Deep Learning", 
@@ -211,7 +211,7 @@ items_de = [
         "title": "Bachelorarbeit - Zertifizierung der Modellrobustheit gegen natürliche Störungen",
         "company": "Siemens",
         "location": "München, Bayern, Deutschland",
-        "image": "assets/siemens.jpeg",
+        "image": "assets/pro/siemens.jpeg",
         "description": "Verfassen der Bachelorarbeit über \u201eModellzertifizierung gegen natürliche Störungen\u201c, in Übereinstimmung mit den Compliance-Anforderungen des kommenden EU AI Act. Die Arbeit fokussierte sich auf die Optimierung und Parallelisierung von Methoden zur Bestimmung des Ausmaßes natürlicher Störungen, die zu Fehlklassifikationen oder Segmentierungsfehlern führen.",
         "skills": [
             "KI-Compliance", 
@@ -226,7 +226,7 @@ items_de = [
         "title": "Praktikant Prototypenentwicklung",
         "company": "BMW Group",
         "location": "München, Bayern, Deutschland",
-        "image": "assets/bmw.png",
+        "image": "assets/pro/bmw.png",
         "description": "Bewertung eines neuen Fahrzeug-Login-Konzepts, NDA. Proof-of-Concept unter Verwendung von Bluetooth Low Energy (BLE) und einem sicheren AWS-basierten Backend.",
         "skills": [
             "Android", 

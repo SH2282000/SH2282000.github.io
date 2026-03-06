@@ -24,7 +24,7 @@
                 "title": "Mémoire de Master : LLM fiables dans des contextes industriels",
                 "company": "Siemens",
                 "location": "Munich, Bavière, Allemagne",
-                "image": "assets/siemens.jpeg",
+                "image": "assets/pro/siemens.jpeg",
                 "description": "Création d'un pipeline RAG basé sur la vision afin de générer des séquences d'opérations d'usinage à partir de données CAM, accompagné d'un cadre d'évaluation personnalisé pour garantir la sécurité de l'IA. Utilisation de métriques de couches d'attention pour garantir la propagation fiable des rédactions de données, éliminant efficacement les hallucinations et protégeant les métadonnées confidentielles lors des déploiements industriels.",
                 "skills": [
                     "Grands Modèles de Langage (LLM)",
@@ -40,7 +40,7 @@
                 "title": "Étudiant en emploi – AI/ML & SafeMLOps",
                 "company": "Siemens",
                 "location": "Munich, Bavière, Allemagne",
-                "image": "assets/siemens.jpeg",
+                "image": "assets/pro/siemens.jpeg",
                 "description": "Conception d'un modèle Python SafeMLOps à l'échelle de l'entreprise (utilisant Copier et Jinja) pour standardiser la CI/CD, l'analyse de sécurité et l'entraînement de modèles activés par GPU au sein de plusieurs équipes d'ingénierie.\n\nMaintien et optimisation d'un CNN U-Net pour la segmentation d'images chez Siemens Mobility, en tirant parti de DVC et de la gestion des dépendances multiplateformes (Poetry) pour réduire les faux positifs.\n\nModernisation de bases de code complexes héritées et livraison avec succès d'évaluations cruciales sur la robustesse et la certification des modèles pour le sommet annuel de l'IA de Siemens.",
                 "skills": [
                     "Deep Learning",
@@ -58,7 +58,7 @@
                 "title": "Mémoire de Licence - Certification de la Robustesse des Modèles contre les Perturbations Naturelles",
                 "company": "Siemens",
                 "location": "Munich, Bavière, Allemagne",
-                "image": "assets/siemens.jpeg",
+                "image": "assets/pro/siemens.jpeg",
                 "description": "Réalisation de mon mémoire de Licence sur la « Certification des Modèles contre les Perturbations Naturelles », en alignement avec les exigences de conformité du futur règlement européen sur l'IA (EU AI Act). Le travail s'est concentré sur l'optimisation et la parallélisation des méthodes pour déterminer l'étendue des perturbations naturelles conduisant à des erreurs de classification ou de segmentation.",
                 "skills": [
                     "Conformité de l'IA",
@@ -73,7 +73,7 @@
                 "title": "Stagiaire Développement de Prototype",
                 "company": "BMW Group",
                 "location": "Munich, Bavière, Allemagne",
-                "image": "assets/bmw.png",
+                "image": "assets/pro/bmw.png",
                 "description": "Évaluation d'un nouveau concept de connexion de voiture, sous NDA. Preuve de concept (PoC) utilisant le Bluetooth Low Energy (BLE) et un backend sécurisé basé sur AWS.",
                 "skills": [
                     "Android",
@@ -89,6 +89,7 @@
                 "date": "Juin 2014 – Janv 2019",
                 "title": "Fondateur @ ROTOR",
                 "company": "ROTOR",
+                "image": "assets/pro/rotor.png",
                 "location": "Fontainebleau, Île-de-France, France",
                 "description": "Fondation d'une organisation spécialisée dans la conception, le perfectionnement et la fabrication de drones FPV et UAV de pointe.\nConstruit et déployé de plus de 30 drones personnalisés, dont des hexacoptères avancés pour des clients professionnels de la photographie.\n\nEnregistrée comme organisation à but non lucratif sous la loi française du 1er juillet 1901 (Association Loi 1901).",
                 "skills": [

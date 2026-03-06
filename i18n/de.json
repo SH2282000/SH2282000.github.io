@@ -24,7 +24,7 @@
                 "title": "Masterarbeit: Vertrauenswürdige LLMs in industriellen Kontexten",
                 "company": "Siemens",
                 "location": "München, Bayern, Deutschland",
-                "image": "assets/siemens.jpeg",
+                "image": "assets/pro/siemens.jpeg",
                 "description": "Aufbau einer visionsbasierten RAG-Pipeline zur Generierung von CAM-Bearbeitungssequenzen, flankiert von einem maßgeschneiderten Evaluierungs-Framework zur Gewährleistung der KI-Sicherheit. Nutzung von Attention-Layer-Metriken, um die zuverlässige Weitergabe von Datenredaktionen zu garantieren, Halluzinationen effektiv zu eliminieren und vertrauliche Metadaten in industriellen Einsatzgebieten zu schützen.",
                 "skills": [
                     "Große Sprachmodelle (LLMs)",
@@ -40,7 +40,7 @@
                 "title": "Werkstudent – AI/ML & SafeMLOps",
                 "company": "Siemens",
                 "location": "München, Bayern, Deutschland",
-                "image": "assets/siemens.jpeg",
+                "image": "assets/pro/siemens.jpeg",
                 "description": "Entwicklung einer unternehmensweiten SafeMLOps-Python-Vorlage (unter Verwendung von Copier und Jinja) zur Standardisierung von CI/CD, Sicherheits-Scans und GPU-gestütztem Modelltraining über mehrere Engineering-Teams hinweg.\n\nWartung und Optimierung eines U-Net-CNNs zur Bildsegmentierung bei Siemens Mobility, mit Einsatz von DVC und plattformübergreifendem Abhängigkeitsmanagement (Poetry) zur Reduzierung falsch-positiver Meldungen.\n\nModernisierung komplexer Legacy-Codebases und erfolgreiche Lieferung kritischer Modellrobustheits- und Zertifizierungsevaluationen für den jährlichen Siemens AI Summit.",
                 "skills": [
                     "Deep Learning",
@@ -58,7 +58,7 @@
                 "title": "Bachelorarbeit - Zertifizierung der Modellrobustheit gegen natürliche Störungen",
                 "company": "Siemens",
                 "location": "München, Bayern, Deutschland",
-                "image": "assets/siemens.jpeg",
+                "image": "assets/pro/siemens.jpeg",
                 "description": "Verfassen der Bachelorarbeit über „Modellzertifizierung gegen natürliche Störungen“, in Übereinstimmung mit den Compliance-Anforderungen des kommenden EU AI Act. Die Arbeit fokussierte sich auf die Optimierung und Parallelisierung von Methoden zur Bestimmung des Ausmaßes natürlicher Störungen, die zu Fehlklassifikationen oder Segmentierungsfehlern führen.",
                 "skills": [
                     "KI-Compliance",
@@ -73,7 +73,7 @@
                 "title": "Praktikant Prototypenentwicklung",
                 "company": "BMW Group",
                 "location": "München, Bayern, Deutschland",
-                "image": "assets/bmw.png",
+                "image": "assets/pro/bmw.png",
                 "description": "Bewertung eines neuen Fahrzeug-Login-Konzepts, NDA. Proof-of-Concept unter Verwendung von Bluetooth Low Energy (BLE) und einem sicheren AWS-basierten Backend.",
                 "skills": [
                     "Android",
@@ -89,6 +89,7 @@
                 "date": "Jun 2014 – Jan 2019",
                 "title": "Gründer @ ROTOR",
                 "company": "ROTOR",
+                "image": "assets/pro/rotor.png",
                 "location": "Fontainebleau, Île-de-France, Frankreich",
                 "description": "Gründung einer Organisation, die sich auf das Design, die Weiterentwicklung und Herstellung von hochmodernen FPV- und UAV-Drohnen spezialisiert hat.\nBau und Einsatz von über 30 maßgeschneiderten Drohnen, einschließlich fortschrittlicher Hexakopter für professionelle Kunden aus der Fotografie.\n\nEingetragen als gemeinnützige Organisation nach französischem Recht vom 1. Juli 1901 (Association Loi 1901).",
                 "skills": [
