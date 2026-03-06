@@ -25,7 +25,7 @@
                 "company": "Siemens AG",
                 "location": "Munich, Bavière, Allemagne",
                 "image": "assets/siemens.jpeg",
-                "description": "Rédaction actuelle de mon mémoire de Master sur 'LLM fiables dans des contextes industriels'. Utilisation de VLA et de RAG basé sur la vision pour la génération de séquences d'opérations d'usinage à partir de jeux de données CAM. Création d'un cadre d'évaluation pour vérifier l'exactitude sur des données industrielles. Axé sur la propagation fiable des redactions d'entrée, la minimisation des hallucinations et la dérivation de métriques basées sur l'attention pour la confiance et la sécurité dans l'IA industrielle."
+                "description": "Master sur 'LLM fiables dans des contextes industriels'. Utilisation de VLA et de RAG basé sur la vision pour la génération de séquences d'opérations d'usinage à partir de jeux de données CAM. Création d'un cadre d'évaluation pour vérifier l'exactitude sur des données industrielles. Axé sur la propagation fiable des redactions d'entrée, la minimisation des hallucinations et la dérivation de métriques basées sur l'attention pour la confiance et la sécurité dans l'IA industrielle."
             },
             {
                 "date": "Sep 2022 – Présent",
@@ -113,7 +113,7 @@
             "location": "Munich, Bavière, Allemagne",
             "degree": "Master, Informatique",
             "date": "2023 - 2025",
-            "image": "assets/edu/esiea.jpeg",
+            "image": "assets/edu/lmu.jpeg",
             "skills": [
                 "C++",
                 "Python",
@@ -228,7 +228,7 @@
             "categories": {
                 "backend": {
                     "title": "Backend",
-                    "text": "Développement de solides connaissances en C, C++, C#, Swift, Kotlin, Java, Python (applications scalables AWS) et Haskell afin de piloter les projets réalisés. Depuis mon plus jeune âge, travail passionné à l'école et en dehors dans divers domaines tels que la programmation et l'électronique."
+                    "text": "Développement de solides connaissances en Rust, C, C++, C#, Python, Swift, Kotlin, Java, et Haskell afin de piloter les projets réalisés. Depuis mon plus jeune âge, travail passionné à l'école et en dehors dans divers domaines tels que la programmation et l'électronique."
                 },
                 "frontend": {
                     "title": "Frontend",

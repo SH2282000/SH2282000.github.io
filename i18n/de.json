@@ -25,7 +25,7 @@
                 "company": "Siemens AG",
                 "location": "München, Bayern, Deutschland",
                 "image": "assets/siemens.jpeg",
-                "description": "Derzeit verfasse ich meine Masterarbeit über 'Vertrauenswürdige LLMs in industriellen Kontexten'. Einsatz von VLAs und visionsbasiertem RAG zur Generierung von Bearbeitungssequenzen aus CAM-Datensätzen. Entwicklung eines Evaluierungsrahmens zur Bewertung der Korrektheit auf Industriedaten. Schwerpunkt auf zuverlässiger Weitergabe von Eingaberedaktionen, Minimierung von Halluzinationen und Ableitung aufmerksamkeitsbasierter Metriken für Vertrauen und Sicherheit in industrieller KI."
+                "description": "Masterarbeit über 'Vertrauenswürdige LLMs in industriellen Kontexten'. Einsatz von VLAs und visionsbasiertem RAG zur Generierung von Bearbeitungssequenzen aus CAM-Datensätzen. Entwicklung eines Evaluierungsrahmens zur Bewertung der Korrektheit auf Industriedaten. Schwerpunkt auf zuverlässiger Weitergabe von Eingaberedaktionen, Minimierung von Halluzinationen und Ableitung aufmerksamkeitsbasierter Metriken für Vertrauen und Sicherheit in industrieller KI."
             },
             {
                 "date": "Sep 2022 – Gegenwart",
@@ -113,7 +113,7 @@
             "location": "München, Bayern, Deutschland",
             "degree": "Masterstudium, Informatik",
             "date": "2023 - 2025",
-            "image": "assets/edu/esiea.jpeg",
+            "image": "assets/edu/lmu.jpeg",
             "skills": [
                 "C++",
                 "Python",
@@ -228,7 +228,7 @@
             "categories": {
                 "backend": {
                     "title": "Backend",
-                    "text": "Fundierte Kenntnisse in C, C++, C#, Swift, Kotlin, Java, Python (AWS-skalierbare Apps) und Haskell, um die von mir geleiteten Projekte umzusetzen. Seit meiner Jugend arbeite ich leidenschaftlich sowohl innerhalb als auch außerhalb der Schule in Bereichen wie Programmierung und Elektronik."
+                    "text": "Fundierte Kenntnisse in Rust, C, C++, C#, Python, Swift, Kotlin, Java, und Haskell, um die von mir geleiteten Projekte umzusetzen. Seit meiner Jugend arbeite ich leidenschaftlich sowohl innerhalb als auch außerhalb der Schule in Bereichen wie Programmierung und Elektronik."
                 },
                 "frontend": {
                     "title": "Frontend",

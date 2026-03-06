@@ -25,7 +25,7 @@
                 "company": "Siemens AG",
                 "location": "Munich, Bavaria, Germany",
                 "image": "assets/siemens.jpeg",
-                "description": "Currently writing my Master’s thesis on 'Trustworthy LLMs in Industrial Contexts'. Using VLAs and vision-based RAG for generation of machining operation sequences from CAM datasets. Created an evaluation framework to assess correctness on industrial data. Focused on ensuring reliable propagation of input redactions, minimizing hallucinations, and deriving attention-based metrics for trust and safety in industrial AI."
+                "description": "Master’s thesis on 'Trustworthy LLMs in Industrial Contexts'. Using VLAs and vision-based RAG for generation of machining operation sequences from CAM datasets. Created an evaluation framework to assess correctness on industrial data. Focused on ensuring reliable propagation of input redactions, minimizing hallucinations, and deriving attention-based metrics for trust and safety in industrial AI."
             },
             {
                 "date": "Sep 2022 – Present",
@@ -113,7 +113,7 @@
             "location": "Munich, Bavaria, Germany",
             "degree": "Master's Degree, Computer Science",
             "date": "2023 - 2025",
-            "image": "assets/edu/esiea.jpeg",
+            "image": "assets/edu/lmu.jpeg",
             "skills": [
                 "C++",
                 "Python",
@@ -228,7 +228,7 @@
             "categories": {
                 "backend": {
                     "title": "Backend",
-                    "text": "Developed good knowledge of C, C++, C#, Swift, Kotlin, Java, Python (AWS scalable app) and Haskell in order to lead the projects that I’ve accomplished. Since a young age, working passionately both in and outside school in various fields such as programming and electronics."
+                    "text": "Developed good knowledge of Rust, C, C++, C#, Python, Swift, Kotlin, Java, and Haskell in order to lead the projects that I’ve accomplished. Since a young age, working passionately both in and outside school in various fields such as programming and electronics."
                 },
                 "frontend": {
                     "title": "Frontend",
